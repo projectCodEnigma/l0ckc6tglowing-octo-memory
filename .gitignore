@@ -81,3 +81,6 @@ private/
 
 # Ignore images
 /images/
+
+# Ignore CNAME file
+CNAME
